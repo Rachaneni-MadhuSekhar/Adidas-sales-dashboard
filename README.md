@@ -46,7 +46,7 @@ Interactive Dashboard Design
 Business Insight Generation
 
 ## Dashboard Preview
-�
+�1[Dasboard](https://github.com/Rachaneni-MadhuSekhar/Adidas-sales-dashboard/blob/7f7d6db85fcaaa11178188966c9b8819f3912c11/Screenshot%202026-05-09%20084403.png)
 
 ## Project Purpose
 The main objective of this project is to practice:
